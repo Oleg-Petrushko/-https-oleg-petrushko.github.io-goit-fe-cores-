@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+    
+}
+
+body {
+    font-size: 12px;
+    
+    line-height: 17px;
+    text-align-last: left;
+    font-family: Arial, Helvetica, sans-serif;  
+    
+    background-image: url(../img/imeg.png)}
+
+    .blok {
+        margin: 70px auto;
+        padding: 0px 0px 0px 0px;
+        
+        width: 480px;
+        background-color: white;
+        
+    }
+
+
+
+/* div #one */
+.item-one {
+    padding: 40px ;
+    /* padding-bottom: 200px; */
+    
+
+}
+.img{
+    margin: 35px 0px 30px 0px;
+    
+}
+p {
+    /* font-size: 12px; */
+    /* font-weight: 400px; */
+    /* line-height: 17px;. */
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;}
+
+
+    h4{
+        /* font-family: Arial, Helvetica, sans-serif; */
+text-align: left;
+}
+
+
+
+h1{
+    font-family: 'Pathway Gothic One', sans-serif;
+    text-transform: uppercase;
+}
+.paragraf-one{
+    padding: 0px 0px 10px 0px;
+}
+.paragraf-too{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.paragraf-thre{ 
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+/* .paragraf-fout{
+    margin: 20px 0px   */
+
+
+.block-too{
+    
+    
+    
+    border-top:40px
+}
+
+
+
+
+.paragraf-four{
+    margin-bottom: 20px;
+
+}
+.block-too{
+    padding-bottom: 40px;    
+}
+.leuter {
+    list-style: none;
+    font-size: 14px;
+    /* color: #263555; */
+	
+    hsla(100, 100%, 100%, 100);
+
+font-weight: 600;   
+column-count: 2 ;
+
+/* padding-bottom: 20px; */
+     }
+.line{ border-top: 1px solid grey;
+margin-top: 50px;}
+
+li{margin-bottom: 25px;}
+
+
+
+
